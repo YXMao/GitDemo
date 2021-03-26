@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		9892DD0A260DC25D0051A8C7 /* Feature1.m in Sources */ = {isa = PBXBuildFile; fileRef = 9892DD09260DC25D0051A8C7 /* Feature1.m */; };
+		9892DD22260DC4AF0051A8C7 /* Feature2.m in Sources */ = {isa = PBXBuildFile; fileRef = 9892DD21260DC4AF0051A8C7 /* Feature2.m */; };
 		98930C17260C92ED008AB9DE /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 98930C16260C92ED008AB9DE /* AppDelegate.m */; };
 		98930C1A260C92ED008AB9DE /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 98930C19260C92ED008AB9DE /* SceneDelegate.m */; };
 		98930C1D260C92ED008AB9DE /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 98930C1C260C92ED008AB9DE /* ViewController.m */; };
@@ -39,6 +40,8 @@
 /* Begin PBXFileReference section */
 		9892DD08260DC25D0051A8C7 /* Feature1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Feature1.h; sourceTree = "<group>"; };
 		9892DD09260DC25D0051A8C7 /* Feature1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Feature1.m; sourceTree = "<group>"; };
+		9892DD20260DC4AF0051A8C7 /* Feature2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Feature2.h; sourceTree = "<group>"; };
+		9892DD21260DC4AF0051A8C7 /* Feature2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Feature2.m; sourceTree = "<group>"; };
 		98930C12260C92ED008AB9DE /* GitDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		98930C15260C92ED008AB9DE /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		98930C16260C92ED008AB9DE /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -120,6 +123,8 @@
 				98930C27260C92EE008AB9DE /* main.m */,
 				9892DD08260DC25D0051A8C7 /* Feature1.h */,
 				9892DD09260DC25D0051A8C7 /* Feature1.m */,
+				9892DD20260DC4AF0051A8C7 /* Feature2.h */,
+				9892DD21260DC4AF0051A8C7 /* Feature2.m */,
 			);
 			path = GitDemo;
 			sourceTree = "<group>";
@@ -276,6 +281,7 @@
 				9892DD0A260DC25D0051A8C7 /* Feature1.m in Sources */,
 				98930C28260C92EE008AB9DE /* main.m in Sources */,
 				98930C1A260C92ED008AB9DE /* SceneDelegate.m in Sources */,
+				9892DD22260DC4AF0051A8C7 /* Feature2.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
