@@ -18,6 +18,7 @@
     // Override point for customization after application launch.
     //新增功能点3
     //新增功能点4
+    //新增功能点5
     return YES;
 }
 
